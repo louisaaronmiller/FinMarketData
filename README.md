@@ -12,9 +12,9 @@ The main task is to take trade-level market data and calculate the VWAP for each
 
 VWAP is calculated as:
 
-\[
+$$
 VWAP = \frac{\sum (Price \times Volume)}{\sum Volume}
-\]
+$$
 
 For each stock, the project therefore:
 
